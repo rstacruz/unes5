@@ -1,0 +1,19 @@
+{
+  "name": "unes5",
+  "version": "1.0.0",
+  "description": "Makes modern JS engines behave like legacy ones",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Rico Sta. Cruz <rico@ricostacruz.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstacruz/unes5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rstacruz/unes5/issues"
+  },
+  "homepage": "https://github.com/rstacruz/unes5#readme"
+}
